@@ -1,0 +1,11 @@
+link para o download do git: https://git-scm.com/downloads
+
+Descrição: é um sistema de controle de versões distribuído, usado principalmente 
+no desenvolvimento de software, mas pode ser usado para registrar o histórico de 
+edições de qualquer tipo de arquivo.
+
+link para o download o node js: https://nodejs.org/en/download/
+
+Descrição: um software de código aberto, multiplataforma, 
+baseado no interpretador V8 do Google e que permite 
+a execução de códigos JavaScript fora de um navegador web.
